@@ -71,10 +71,10 @@ export default function Contact() {
               bring it to life.
             </p>
             <a
-              href="mailto:hello@studio.salillakra.com"
+              href="mailto:salillakra.dev@gmail.com"
               className="mt-10 inline-flex items-center gap-2 border-b border-obsidian/40 pb-1 font-mono text-[11px] uppercase tracking-[0.15em]"
             >
-              hello@studio.salillakra.com <ArrowUpRight size={14} />
+              salillakra.dev@gmail.com <ArrowUpRight size={14} />
             </a>
           </div>
           <div className="border-t border-obsidian/20 pt-6">
