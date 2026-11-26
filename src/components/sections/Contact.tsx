@@ -14,10 +14,11 @@ const fields = [
   "Other",
 ] as const;
 const budgets = [
-  "Under $5K",
-  "$5K–$15K",
-  "$15K–$50K",
-  "$50K+",
+  "Under ₹20K",
+  "₹20K–₹50K",
+  "₹50K–₹1.5L",
+  "₹1.5L–₹4L",
+  "₹4L+",
   "Not sure",
 ] as const;
 
