@@ -1,0 +1,6 @@
+.agents
+.next
+skills-lock.json
+node_modules
+dist
+tsconfig.tsbuildinfo

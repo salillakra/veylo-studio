@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#080808"/>
+  <path d="M0 500H1200M0 430H1200M0 360H1200M0 290H1200M0 220H1200M0 150H1200M80 0V630M160 0V630M240 0V630M320 0V630M400 0V630M480 0V630M560 0V630M640 0V630M720 0V630M800 0V630M880 0V630M960 0V630M1040 0V630M1120 0V630" stroke="#f1f0eb" opacity=".07"/>
+  <circle cx="930" cy="220" r="170" fill="none" stroke="#c6ff4d" opacity=".5"/>
+  <circle cx="930" cy="220" r="110" fill="none" stroke="#f1f0eb" opacity=".22"/>
+  <text x="80" y="190" fill="#c6ff4d" font-family="monospace" font-size="20" letter-spacing="5">INDEPENDENT DIGITAL ENGINEERING STUDIO</text>
+  <text x="80" y="315" fill="#f1f0eb" font-family="Arial, sans-serif" font-size="92" font-weight="700" letter-spacing="-5">SALIL STUDIO.</text>
+  <text x="84" y="375" fill="#888" font-family="monospace" font-size="19" letter-spacing="2">WE BUILD DIGITAL THINGS THAT MOVE BUSINESSES FORWARD.</text>
+</svg>
